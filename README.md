@@ -13,7 +13,7 @@
 
 #### Presentation of the work
 
--[Gadji's version](Presentation_of_the_work_v_Gadji)
+- [Gadji's version](Presentation_of_the_work_v_Gadji)
 
 ## Architecture diagrams
 
