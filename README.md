@@ -11,7 +11,10 @@
 - [Figma](https://www.figma.com/files/team/1445470940280257531/all-projects?fuid=599666231556449807)
 - [OAuth2.0](OAuth2.0)
 
-## Architecture
+#### Presentation of the work
+
+-[Gadji's version](Presentation_of_the_work_v_Gadji)
+
+## Architecture diagrams
 
 ![architecture-v1.1](Architecture/architecture-v1.1.png)
-
