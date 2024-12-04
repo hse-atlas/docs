@@ -15,6 +15,10 @@
 
 - [Gadji's version](Presentation_of_the_work_v_Gadji)
 
+### Stages of development
+
+- [Gadji's version](Stages_of_development_v_Gadji)
+
 ## Architecture diagrams
 
 ![architecture-v1.1](Architecture/architecture-v1.1.png)
