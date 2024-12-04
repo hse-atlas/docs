@@ -13,11 +13,11 @@
 
 ### Presentation of the work
 
-- [Gadji's version](Presentation_of_the_work_v_Gadji)
+- [Gadji's version](<Presentation of the work/Presentation_of_the_work_v_Gadji.md>)
 
 ### Stages of development
 
-- [Gadji's version](Stages_of_development_v_Gadji)
+- [Gadji's version](<Stages of development/Stages_of_development_v_Gadji.md>)
 
 ## Architecture diagrams
 
