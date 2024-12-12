@@ -18,6 +18,7 @@
 ### Stages of development
 
 - [Gadji's version](<Stages of development/Stages_of_development_v_Gadji.md>)
+- [Gadji's version v1.2](<Stages of development/Stages_of_development_v_Gadji_1.2.md>)
 
 ## Architecture diagrams
 
