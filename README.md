@@ -5,6 +5,7 @@
 ### Architecture
 
 - [architecture-v1](Architecture/architecture-v1.md)
+- [architecture-v1.2](Architecture/architecture-v1.2.md)
 
 ### Other
 
@@ -22,4 +23,5 @@
 
 ## Architecture diagrams
 
-![architecture-v1.1](Architecture/architecture-v1.1.png)
+[architecture-v1.1](Architecture/architecture-v1.1.png)
+![architecture-v1.1](Architecture/architecture_v1.2.svg)
